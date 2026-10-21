@@ -6,3 +6,7 @@ dependencies:
   - xeus-python
   - xeus-r
   - r-readr
+  - r-dplyr
+  - r-tidyr
+  - r-tibble
+  - r-nlme
