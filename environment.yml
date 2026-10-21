@@ -10,3 +10,4 @@ dependencies:
   - r-tidyr
   - r-tibble
   - r-nlme
+  - r-ggplot2<4
