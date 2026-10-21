@@ -5,3 +5,7 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - xeus-r
+  - r-dplyr
+  - r-readr
+  - r-tidyr
